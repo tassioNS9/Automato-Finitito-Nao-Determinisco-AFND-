@@ -1,0 +1,1 @@
+# Automato-Finitito-Nao-Determinisco-AFND-
